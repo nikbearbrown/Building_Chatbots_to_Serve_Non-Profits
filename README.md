@@ -1,5 +1,4 @@
-# Building_Chatbots_to_Serve_Non-Profits
-Building Chatbots to Serve Non-Profits
+# Building Chatbots to Serve Non-Profits
 
 **Best Practices for Building Chatbots to Serve Non-Profits**
 
@@ -13,6 +12,8 @@ Building Chatbots to Serve Non-Profits
    - **Transparency**: Clearly communicate the chatbot’s capabilities and limitations to build trust (Zhou et al., 2020).
    - **Ethical AI**: Implement ethical guidelines to ensure fairness, accountability, and transparency in chatbot interactions (Binns et al., 2018).
 
+  **Best Practices for Building Chatbots to Serve Non-Profits**
+
 3. **Accessibility**:
    - **Inclusive Design**: Ensure the chatbot is accessible to people with disabilities, including visual, auditory, and cognitive impairments (WAI, 2018).
    - **Multilingual Support**: Provide support for multiple languages to cater to diverse user groups (Dale, 2020).
@@ -21,6 +22,7 @@ Building Chatbots to Serve Non-Profits
    - **Agile Methodology**: Use Agile methodologies to iteratively develop and refine the chatbot, incorporating user feedback at each stage (Beck et al., 2001).
    - **Pilot Testing**: Conduct pilot tests with real users to identify and resolve issues before full deployment (Rogers et al., 2011).
 
+**Best Practices for Building Chatbots to Serve Non-Profits**
 **Scientific Perspective:**
 
 1. **Natural Language Processing (NLP) and Machine Learning**:
@@ -35,6 +37,8 @@ Building Chatbots to Serve Non-Profits
    - **Metrics**: Establish clear metrics for chatbot performance, including response accuracy, user satisfaction, and engagement rates (Xu et al., 2017).
    - **Continuous Monitoring**: Set up continuous monitoring to track performance and identify areas for improvement (Laranjo et al., 2018).
 
+
+**Best Practices for Building Chatbots to Serve Non-Profits**
 **Best Practices for Visualizing Non-Profit Data**
 
 **Literature Perspective:**
@@ -51,6 +55,8 @@ Building Chatbots to Serve Non-Profits
    - **Interactive Dashboards**: Develop interactive dashboards that allow users to explore data dynamically (Heer et al., 2012).
    - **User Control**: Provide tools for users to filter and manipulate data to suit their specific needs (Shneiderman, 1996).
 
+**Best Practices for Building Chatbots to Serve Non-Profits**
+**Best Practices for Visualizing Non-Profit Data**
 **Scientific Perspective:**
 
 1. **Data Integrity and Quality**:
